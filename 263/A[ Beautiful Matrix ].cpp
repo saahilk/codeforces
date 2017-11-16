@@ -1,6 +1,6 @@
 head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta name="X-Csrf-Token" content="66ed454be15b3378a052f9601de5c1cb"/>
+    <meta name="X-Csrf-Token" content="b2dfe365c763d7a192c51669eae97510"/>
     <meta id="viewport" name="viewport" content="width=device-width, initial-scale=0.01"/>
     <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/jquery-1.8.3.js"></script>
     <script type="application/javascript">
@@ -114,7 +114,7 @@ head>
 
 
 </head>
-<body><span style='display:none;' class='csrf-token' data-csrf='66ed454be15b3378a052f9601de5c1cb'>&nbsp;</span>
+<body><span style='display:none;' class='csrf-token' data-csrf='b2dfe365c763d7a192c51669eae97510'>&nbsp;</span>
 
 <div class="button-up" style="display: none; opacity: 0.7; width: 50px; height:100%; position: fixed; left: 0; top: 0; cursor: pointer; text-align: center; line-height: 35px; color: #d3dbe4; font-weight: bold; font-size: 3.0rem;"><i class="icon-circle-arrow-up"></i></div>
 
@@ -328,7 +328,7 @@ head>
                 <li class=""><a href="/api/help">API</a></li>
                 <li class=""><a href="/calendar">Calendar</a></li>
     </ul>
-        <form method="post" action="/search"><input type='hidden' name='csrf_token' value='66ed454be15b3378a052f9601de5c1cb'/>
+        <form method="post" action="/search"><input type='hidden' name='csrf_token' value='b2dfe365c763d7a192c51669eae97510'/>
             <input class="search" name="query" data-isPlaceholder="true" value=""/>
         </form>
     <br style="clear: both;"/>

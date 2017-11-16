@@ -1,8 +1,8 @@
 head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta name="X-Csrf-Token" content="b6eceb8b96576b1ddb194a5d1b2e8932"/>
+    <meta name="X-Csrf-Token" content="9dc6f1a95713f07f01ed5e721d0860b3"/>
     <meta id="viewport" name="viewport" content="width=device-width, initial-scale=0.01"/>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/jquery-1.8.3.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/jquery-1.8.3.js"></script>
     <script type="application/javascript">
         window.standaloneContest = false;
         function adjustViewport() {
@@ -21,11 +21,11 @@ head>
     </script>
     <meta http-equiv="pragma" content="no-cache">
     <meta http-equiv="expires" content="-1">
-    <meta http-equiv="profileName" content="c4">
+    <meta http-equiv="profileName" content="p1">
     <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90"/>
     <meta property="fb:admins" content="100001352546622" />
-    <meta property="og:image" content="http://st.codeforces.com/s/91350/images/codeforces-telegram-square.png" />
-    <link rel="image_src" href="http://st.codeforces.com/s/91350/images/codeforces-telegram-square.png" />
+    <meta property="og:image" content="http://st.codeforces.com/s/10935/images/codeforces-telegram-square.png" />
+    <link rel="image_src" href="http://st.codeforces.com/s/10935/images/codeforces-telegram-square.png" />
     <meta property="og:title" content="Submission #28769836 - Codeforces"/>
     <meta property="og:description" content=""/>
     
@@ -42,66 +42,66 @@ head>
         <meta name="keywords" content="programming algorithm contest competition informatics olympiads c++ java graphs vkcup" />
     <meta name="robots" content="index, follow" />
 
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/font-awesome.min.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/font-awesome.min.css" type="text/css" charset="utf-8" />
 
         <link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
         <link href='//fonts.googleapis.com/css?family=Cuprum&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 
 
-    <link rel="shortcut icon" type="image/png" href="http://st.codeforces.com/s/91350/favicon.png">
+    <link rel="shortcut icon" type="image/png" href="http://st.codeforces.com/s/10935/favicon.png">
 
     <!--CombineResourcesFilter-->
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/prettify.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/clear.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/style.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/ttypography.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/problem-statement.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/second-level-menu.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/roundbox.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/datatable.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/table-form.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/topic.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/jquery.jgrowl.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/facebox.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/jquery.wysiwyg.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/jquery.autocomplete.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/codeforces.datepick.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/colorbox.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/jquery.drafts.css" type="text/css" charset="utf-8" />
-        <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/status.css" type="text/css" charset="utf-8" />
-        <link rel="stylesheet" href="http://st.codeforces.com/s/91350/css/community.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/prettify.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/clear.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/style.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/ttypography.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/problem-statement.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/second-level-menu.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/roundbox.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/datatable.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/table-form.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/topic.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/jquery.jgrowl.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/facebox.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/jquery.wysiwyg.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/jquery.autocomplete.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/codeforces.datepick.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/colorbox.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/jquery.drafts.css" type="text/css" charset="utf-8" />
+        <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/status.css" type="text/css" charset="utf-8" />
+        <link rel="stylesheet" href="http://st.codeforces.com/s/10935/css/community.css" type="text/css" charset="utf-8" />
 
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/prettify/prettify.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/moment.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/pushstream.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/jquery.easing.min.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/jquery.lavalamp.min.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/jquery.jgrowl.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/jquery.swipe.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/facebox.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/jquery.wysiwyg.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/controls/wysiwyg.colorpicker.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/controls/wysiwyg.table.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/controls/wysiwyg.image.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/controls/wysiwyg.link.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/jquery.autocomplete.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/jquery.datepick.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/jquery.ie6blocker.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/jquery.colorbox-min.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/jquery.ba-bbq.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/jquery.drafts.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/sjcl.js"></script>
-    <script type="text/javascript" src="/scripts/4a5eae32aec578690b55c963b1ebebbf/en/codeforces-options.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/js/codeforces.js?v=20160131"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/prettify/prettify.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/moment.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/pushstream.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/jquery.lavalamp.min.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/jquery.jgrowl.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/jquery.swipe.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/facebox.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/jquery.wysiwyg.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/controls/wysiwyg.colorpicker.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/controls/wysiwyg.table.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/controls/wysiwyg.image.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/controls/wysiwyg.link.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/jquery.autocomplete.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/jquery.datepick.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/jquery.ie6blocker.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/jquery.ba-bbq.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/jquery.drafts.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/sjcl.js"></script>
+    <script type="text/javascript" src="/scripts/e83dc450764e6c02a9ad17eb48999c79/en/codeforces-options.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/js/codeforces.js?v=20160131"></script>
     <!--/CombineResourcesFilter-->
 
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/markitup/skins/markitup/style.css" type="text/css" charset="utf-8" />
-    <link rel="stylesheet" href="http://st.codeforces.com/s/91350/markitup/sets/markdown/style.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/markitup/skins/markitup/style.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="http://st.codeforces.com/s/10935/markitup/sets/markdown/style.css" type="text/css" charset="utf-8" />
 
     <script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script>
 
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/markitup/jquery.markitup.js"></script>
-    <script type="text/javascript" src="http://st.codeforces.com/s/91350/markitup/sets/markdown/set.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/markitup/jquery.markitup.js"></script>
+    <script type="text/javascript" src="http://st.codeforces.com/s/10935/markitup/sets/markdown/set.js"></script>
 
     <!--[if IE]>
     <style>
@@ -114,7 +114,7 @@ head>
 
 
 </head>
-<body><span style='display:none;' class='csrf-token' data-csrf='b6eceb8b96576b1ddb194a5d1b2e8932'>&nbsp;</span>
+<body><span style='display:none;' class='csrf-token' data-csrf='9dc6f1a95713f07f01ed5e721d0860b3'>&nbsp;</span>
 
 <div class="button-up" style="display: none; opacity: 0.7; width: 50px; height:100%; position: fixed; left: 0; top: 0; cursor: pointer; text-align: center; line-height: 35px; color: #d3dbe4; font-weight: bold; font-size: 3.0rem;"><i class="icon-circle-arrow-up"></i></div>
 
@@ -290,12 +290,12 @@ head>
 <div id="header" style="position: relative;">
     <div style="float:left;">
             
-            <a href="/"><img src="http://st.codeforces.com/s/91350/images/codeforces-logo-with-telegram.png"/></a>
+            <a href="/"><img src="http://st.codeforces.com/s/10935/images/codeforces-logo-with-telegram.png"/></a>
     </div>
     <div class="lang-chooser">
         <div style="text-align: right;">
-            <a href="?locale=en"><img src="http://st.codeforces.com/s/91350/images/flags/24/gb.png" title="In English" alt="In English"/></a>
-            <a href="?locale=ru"><img src="http://st.codeforces.com/s/91350/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
+            <a href="?locale=en"><img src="http://st.codeforces.com/s/10935/images/flags/24/gb.png" title="In English" alt="In English"/></a>
+            <a href="?locale=ru"><img src="http://st.codeforces.com/s/10935/images/flags/24/ru.png" title="По-русски" alt="По-русски"/></a>
         </div>
 
         <div >
@@ -328,7 +328,7 @@ head>
                 <li class=""><a href="/api/help">API</a></li>
                 <li class=""><a href="/calendar">Calendar</a></li>
     </ul>
-        <form method="post" action="/search"><input type='hidden' name='csrf_token' value='b6eceb8b96576b1ddb194a5d1b2e8932'/>
+        <form method="post" action="/search"><input type='hidden' name='csrf_token' value='9dc6f1a95713f07f01ed5e721d0860b3'/>
             <input class="search" name="query" data-isPlaceholder="true" value=""/>
         </form>
     <br style="clear: both;"/>
@@ -386,10 +386,10 @@ head>
                 <div style="position:absolute;right:0.25em;top:0.35em;">
                     <span style="padding:0;position:relative;bottom:2px;" class="rowCount"></span>
 
-                    <img class="closed" src="http://st.codeforces.com/s/91350/images/icons/control.png"/>
+                    <img class="closed" src="http://st.codeforces.com/s/10935/images/icons/control.png"/>
 
                     <span class="filter" style="display:none;">
-                        <img class="opened" src="http://st.codeforces.com/s/91350/images/icons/control-270.png"/>
+                        <img class="opened" src="http://st.codeforces.com/s/10935/images/icons/control-270.png"/>
                         <input style="padding:0;position:relative;bottom:2px;border:1px solid #aaa;height:17px;font-size:1.3rem;"/>
                     </span>
                 </div>
